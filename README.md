@@ -1,4 +1,4 @@
-node-rtf
+js-rtf
 ========
 
-An RTF document creation library for node. Based on my old ActionScript3 implementation which has more documentation at http://code.google.com/p/rtflex/. 
+An RTF document creation library for javascript. Based on node-rtf by Jonathan Rowny - https://github.com/jrowny/node-rtf
