@@ -1,12 +1,12 @@
 { 
-  "name" : "rtf",
-  "version" : "0.0.4",
-  "description" : "Assists with creating rich text documents.",
+  "name" : "js-rtf",
+  "version" : "0.0.1",
+  "description" : "Assists with creating rich text documents. forked from jrowny's node-rtf on 2015-08-19",
   "main" : "./lib/rtf.js",
-  "author" : "Jonathan Rowny",
+  "author" : "Rory O'Kelly",
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/jrowny/node-rtf.git"
+    "url" : "https://github.com/roryok/js-rtf.git"
   },
   "keywords": [
     "rtf",
